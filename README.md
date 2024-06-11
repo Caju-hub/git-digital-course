@@ -11,3 +11,6 @@
 # verificação parte 4
 
 # verificação parte 5
+
+* comando git pull
+* comando git push
